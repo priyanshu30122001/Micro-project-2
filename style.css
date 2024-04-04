@@ -155,10 +155,12 @@ background-color: rgba(146, 157, 255, 1);
 
 .container{
    background-color: rgba(72, 62, 255, 1);
-   height: 60vh;
+   height: 70vh;
    display: flex;
    gap: 2vw;
-   padding: 3vh 1vw;
+   align-items: center;
+   justify-content: space-evenly;
+   padding: 3vh 2vw;
    border-radius: 20px;
    margin: 18vh 0 5vh;
 }
